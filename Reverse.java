@@ -21,3 +21,5 @@ public class Reverse
 
     }
 }
+
+//que1

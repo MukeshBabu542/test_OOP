@@ -15,4 +15,5 @@ public class CalculateTheSum {
         System.out.println("The sum is "+sum);
 
     }
+    //que 2
 }

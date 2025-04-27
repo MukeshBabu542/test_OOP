@@ -9,3 +9,4 @@ public class PrintThePattern {
         }
     }
 }
+//que3
